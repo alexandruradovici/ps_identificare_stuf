@@ -1,6 +1,3 @@
-# ps_identificare_stuf
-
-
 # Using resources from
 
 https://github.com/nicknochnack/TFODCourse
