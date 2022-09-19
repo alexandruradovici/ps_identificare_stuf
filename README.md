@@ -1,9 +1,13 @@
 # Using resources from
 
 https://github.com/nicknochnack/TFODCourse
+
 https://github.com/open-mmlab/mmdetection
+
 https://github.com/yehengchen/Object-Detection-and-Tracking
+
 https://github.com/neuralmagic/sparsezoo
+
 https://github.com/VishalBheda/ObjectRecogniserWithCOCO
 
 
@@ -12,7 +16,9 @@ https://github.com/VishalBheda/ObjectRecogniserWithCOCO
 Images (both train and test) were taken from
 
 https://wavesinthekitchen.com/rainbow-apples/
+
 https://www.seriouseats.com/the-food-lab-what-are-the-best-apples-for-apple-pies-how-to-make-pie
+
 https://jooinn.com/colorful-apples-2.html
 
 Test images are cropped train images.
