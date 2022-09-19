@@ -16,6 +16,7 @@ https://www.seriouseats.com/the-food-lab-what-are-the-best-apples-for-apple-pies
 https://jooinn.com/colorful-apples-2.html
 
 Test images are cropped train images.
+
 In real-world scenarios the data bank should be significant.
 
 Tensorflow and Tensorflow-GPU are used for the training and testing.
@@ -24,6 +25,7 @@ Tensorflow and Tensorflow-GPU are used for the training and testing.
 # Annotating the data
 
 To create the labels (detection boxes) for the train and test datasets, labelImg was used.
+
 This tools generates the xml files with the boxes.
 
 
@@ -35,10 +37,12 @@ Protocol Buffers is installed for data serialization.
 # Models
 
 Pre-trained models used taken from publically available https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
+
 In use now: SSD MobileNet V2 FPNLite 320x320
 
 
 # Entry points
 
 main.py - perform the training
+
 main_test_model.py - performs the test on a single given image
