@@ -27,6 +27,8 @@ In real-world scenarios the data bank should be significant.
 
 Tensorflow and Tensorflow-GPU are used for the training and testing.
 
+Code tested only on a Windows machine, setup is significantly different for linux machines. Uploaded also venv because of this.
+
 
 # Annotating the data
 
