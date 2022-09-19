@@ -11,7 +11,7 @@ if __name__ == '__main__':
     TRAIN_MAX_ITER = 10000
 
     # used to run external scripts
-    PYTHON_PATH = 'C:\\Users\\user\\PycharmProjects\\imageProcessingDemo\\venv\\Scripts\\python.exe '
+    PYTHON_PATH = '.\\venv\\Scripts\\python.exe '
 
     # do not use GPUs on this machine
     tf.config.set_visible_devices([], 'GPU')
